@@ -52,14 +52,14 @@ CREATE TABLE IF NOT EXISTS `a` (
 --
 
 INSERT INTO `a` (`id`, `iduser`, `nom`, `prenom`, `tel`, `idproduit`, `libelle`, `prix`, `addresse`, `codepostal`, `ville`, `datelivraison`, `etat`, `dateachat`) VALUES
-(65, 4, 'Mohamed Aziz', 'belkhodja', 23224821, 20, 'bridal', 480, '44B immeuble jasmins', '2037', 'centre urbain nord', '26/01/19', 'active', '2019-01-23 14:38:52'),
-(60, 4, 'Mohamed Aziz', 'belkhodja', 23224821, 28, 'Fancy Tassel Diamant', 34900, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 07:41:37'),
-(62, 4, 'Mohamed Aziz', 'belkhodja', 23224821, 31, 'Bijoux luxe Paris', 3450, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 13:02:16'),
-(58, 4, 'Mohamed Aziz', 'belkhodja', 23224821, 26, 'Floralla ', 880, '44B immeuble jasmins', '2037', 'centre urbain nord', '11/01/19', 'valide', '2019-01-08 22:18:12'),
-(61, 4, 'Mohamed Aziz', 'belkhodja', 23224821, 20, 'bridal', 480, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 11:49:46'),
-(56, 4, 'Mohamed Aziz', 'belkhodja', 23224821, 21, 'Argor Valenciennes 2 carats', 1090, '44B immeuble jasmins', '2037', 'centre urbain nord', '11/01/19', 'valide', '2019-01-08 22:18:08'),
-(63, 4, 'Mohamed Aziz', 'belkhodja', 23224821, 21, 'Argor Valenciennes 2 carats', 1090, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 13:02:19'),
-(64, 4, 'Mohamed Aziz', 'belkhodja', 23224821, 22, 'rose piaget', 590, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 13:02:22'),
+(65, 4, 'Tayachi Fedi', 'belkhodja', 23224821, 20, 'bridal', 480, '44B immeuble jasmins', '2037', 'centre urbain nord', '26/01/19', 'active', '2019-01-23 14:38:52'),
+(60, 4, 'Tayachi Fedi', 'belkhodja', 23224821, 28, 'Fancy Tassel Diamant', 34900, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 07:41:37'),
+(62, 4, 'Tayachi Fedi', 'belkhodja', 23224821, 31, 'Bijoux luxe Paris', 3450, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 13:02:16'),
+(58, 4, 'Tayachi Fedi', 'belkhodja', 23224821, 26, 'Floralla ', 880, '44B immeuble jasmins', '2037', 'centre urbain nord', '11/01/19', 'valide', '2019-01-08 22:18:12'),
+(61, 4, 'Tayachi Fedi', 'belkhodja', 23224821, 20, 'bridal', 480, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 11:49:46'),
+(56, 4, 'Tayachi Fedi', 'belkhodja', 23224821, 21, 'Argor Valenciennes 2 carats', 1090, '44B immeuble jasmins', '2037', 'centre urbain nord', '11/01/19', 'valide', '2019-01-08 22:18:08'),
+(63, 4, 'Tayachi Fedi', 'belkhodja', 23224821, 21, 'Argor Valenciennes 2 carats', 1090, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 13:02:19'),
+(64, 4, 'Tayachi Fedi', 'belkhodja', 23224821, 22, 'rose piaget', 590, '44B immeuble jasmins', '2037', 'centre urbain nord', '12/01/19', 'valide', '2019-01-09 13:02:22'),
 (69, 11, 'Issam', 'Souissi', 23188936, 21, 'Argor Valenciennes 2 carats', 1090, '8 rue commandant bjaoui ', '2000', 'Bardo', '28/01/19', 'valide', '2019-01-25 10:40:35'),
 (68, 11, 'Issam', 'Souissi', 23188936, 31, 'Bijoux luxe Paris', 3450, '8 rue commandant bjaoui ', '2000', 'Bardo', '28/01/19', 'valide', '2019-01-25 10:40:33'),
 (71, 11, 'Issam', 'Souissi', 23188936, 31, 'Bijoux luxe Paris', 3450, '8 rue commandant bjaoui ', '2000', 'Bardo', '28/01/19', 'valide', '2019-01-25 11:06:25'),
